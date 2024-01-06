@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpelTheLower", "ExpelTheLower\ExpelTheLower.csproj", "{3DBA468A-45EC-4BDC-81A7-DED303D0B2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBA468A-45EC-4BDC-81A7-DED303D0B2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBA468A-45EC-4BDC-81A7-DED303D0B2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBA468A-45EC-4BDC-81A7-DED303D0B2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBA468A-45EC-4BDC-81A7-DED303D0B2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E648C4-FA99-43C9-B8C5-E90E9FFF28F0}
+	EndGlobalSection
+EndGlobal
